@@ -1,0 +1,42 @@
+/*Font things*/
+
+h3
+{
+    font-family: 'Caviar Dreams', sans-serif;
+    font-weight: bold;
+}
+
+h5
+{
+    font-family: 'Caviar Dreams', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+h6
+{
+    font-family: 'Caviar Dreams', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+/* Solid border */
+hr.solid
+{
+    height: 3px;
+    color: black;
+}
+
+/* Hyperlink */
+a
+{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover
+{   
+    color: grey;
+    text-decoration: none;
+}
