@@ -25,7 +25,8 @@ h6
 hr.solid
 {
     height: 3px;
-    color: black;
+    border-color: black;
+    background-color: black;
 }
 
 /* Hyperlink */
