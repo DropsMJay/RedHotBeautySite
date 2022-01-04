@@ -29,6 +29,13 @@ hr.solid
     background-color: black;
 }
 
+.verticalLine
+{
+    height: 3px;
+    border-color: black;
+    background-color: black;
+}
+
 /* Hyperlink */
 a
 {
