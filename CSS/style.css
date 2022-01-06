@@ -48,3 +48,57 @@ a:hover
     color: grey;
     text-decoration: none;
 }
+
+/*Colored Squares*/
+
+.squareRed
+{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
+
+.squareBlue
+{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+}
+
+.squareYellow
+{
+    height: 20px;
+    width: 20px;
+    background-color: yellow;
+}
+
+/* Buttons */
+
+.button
+{
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Caviar Dreams', sans-serif;
+    font-weight: bold;
+}
+
+.buttonBuy
+{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.buttonBuy:hover
+{
+    background-color: #4CAF50;
+    color: white;
+}
